@@ -1,4 +1,4 @@
-# onlinecourses
+# Online courses
 Notes and study material from completed and in-progress online courses. Most of the notes are embedded in iPython notebooks.
 
 ## List of courses
